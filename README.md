@@ -11,4 +11,6 @@ $ export GITHUB_USER=filidorwiese; export GITHUB_TOKEN=b46...; ./build-and-push.
 ```
 
 You can setup a Personal Access Token at: https://github.com/settings/tokens
-Make sure to include `read:packages` and `write:packages` permissions
+Make sure to include `*:packages` permissions
+
+You can find the settings page here: https://github.com/users/schiphol-ac/packages/container/package/kafka-burrow-upstream/kafka-burrow-upstream
